@@ -2,4 +2,4 @@
 
 ### Project Demo
 
-<video src="https://youtu.be/Rzhm6I9Eq3Q" width="320" height="240" controls></video>
+[![alt text](https://img.youtube.com/vi/Rzhm6I9Eq3Q/0.jpg)](https://www.youtube.com/watch?v=Rzhm6I9Eq3Q)
