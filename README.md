@@ -2,4 +2,4 @@
 
 ### Project Demo
 
-[![alt text](https://img.youtube.com/vi/Rzhm6I9Eq3Q/0.jpg)](https://www.youtube.com/watch?v=Rzhm6I9Eq3Q)
+<iframe src="https://www.youtube.com/watch?v=Rzhm6I9Eq3Q" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
