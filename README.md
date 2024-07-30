@@ -2,6 +2,10 @@
 
 ![image](https://firebasestorage.googleapis.com/v0/b/iee-ecom.appspot.com/o/project%20images%2FEMS.png?alt=media&token=432729ae-afe2-4370-845a-563bf1510e6b)
 
+### Coverage Report
+
+![image](https://firebasestorage.googleapis.com/v0/b/iee-ecom.appspot.com/o/project%20images%2FEMS%20Coverage%20Report%20Summary.png?alt=media&token=d979517e-dbe0-40f0-82e3-072463c7d394)
+
 ### Project Demo
 
 https://www.youtube.com/watch?v=Rzhm6I9Eq3Q
