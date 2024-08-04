@@ -12,4 +12,4 @@ https://documenter.getpostman.com/view/13382761/2sA3kbexWb
 
 ### Project Demo
 
-https://www.youtube.com/watch?v=Rzhm6I9Eq3Q
+https://youtu.be/ThqMS_Eas8I
